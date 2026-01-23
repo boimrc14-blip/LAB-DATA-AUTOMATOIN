@@ -16,6 +16,9 @@ Automated chemical lab data analysis and quality control dashboard using Python.
 - Pandas (Data analysis)
 - Matplotlib (Visualization)
 - Openpyxl (Excel integration)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Pandas](https://img.shields.io/badge/Pandas-2.3-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
 ## 👨‍🔬 About the Creator
 - **Name:** Iim
