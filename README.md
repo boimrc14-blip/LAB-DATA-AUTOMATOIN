@@ -9,7 +9,7 @@ Automated chemical lab data analysis and quality control dashboard using Python.
 - Visual dashboard with Matplotlib
 
 ## 📊 Sample Output
-![Chemical QC Dashboard](chemical_gc_dashboard.png)
+![Chemical QC Dashboard](chemical_qc_dashboard.png)
 
 ## 🛠️ Technologies
 - Python 3.12
