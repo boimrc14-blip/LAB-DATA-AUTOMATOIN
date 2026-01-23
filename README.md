@@ -1,28 +1,30 @@
-# Lab Data Automation Project
+# 🧪 Lab Data Automation
 
-## About Me
-- *Background:* D3 Analisis Kimia, R&D Pelumas, VB programming.
-- *Goal:* Transition into remote tech roles (Technical Writing, QA, Data Analysis).
-- *Current Focus:* Learning Python for data automation & API testing.
+Automated chemical lab data analysis and quality control dashboard using Python.
 
-## Project 1: Chemical Data Analysis Script
-*Goal:* Automate lab report generation from CSV data.
+## 🚀 Features
+- Chemical data generation and simulation
+- Quality Control (QC) statistical analysis
+- Automated Excel report generation
+- Visual dashboard with Matplotlib
 
-### Tools:
-- Python (pandas, matplotlib)
-- GitHub for version control
-- Markdown for documentation
+## 📊 Sample Output
+![Chemical QC Dashboard](chemical_gc_dashboard.png)
 
-### Steps:
-1. Load lab data (CSV/Excel)
-2. Calculate average, standard deviation
-3. Generate simple plots
-4. Export to PDF
+## 🛠️ Technologies
+- Python 3.12
+- Pandas (Data analysis)
+- Matplotlib (Visualization)
+- Openpyxl (Excel integration)
 
-### Progress:
-- [x] Create GitHub repository
-- [ ] Learn Python basics (in progress)
-- [ ] Build first script
+## 👨‍🔬 About the Creator
+- **Name:** Iim
+- **Background:** D3 Analisis Kimia + R&D Pelumas
+- **Mission:** Combining chemistry expertise with programming for lab automation
 
-## Contact:
-- GitHub: [@boimrc14-blip](https://github.com/boimrc14-blip)
+## 📈 Project Status
+✅ Phase 1: Basic dashboard completed  
+🔧 Next: Integrate real lab data and advanced analytics
+
+---
+*"From chemical formulas to Python functions – automating the lab of tomorrow."*
